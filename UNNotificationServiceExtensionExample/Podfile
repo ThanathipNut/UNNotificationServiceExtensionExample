@@ -1,0 +1,10 @@
+platform :ios, '13.0'
+
+target 'UNNotificationServiceExtensionExample' do
+  use_frameworks!
+  inherit! :complete
+  pod 'Firebase/Analytics'
+  pod 'Firebase/Messaging'
+  pod 'Firebase/Crashlytics'  
+end
+

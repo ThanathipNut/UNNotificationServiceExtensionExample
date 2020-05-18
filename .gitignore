@@ -88,3 +88,7 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+UNNotificationServiceExtensionExample/UNNotificationServiceExtensionExample/GoogleService-Info.plist
+UNNotificationServiceExtensionExample/Podfile.lock
+UNNotificationServiceExtensionExample/Pods/
